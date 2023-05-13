@@ -1,0 +1,10 @@
+{
+    "name" : "Currency Exhange/Converter",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "description" : "A Chrome Extension for easy and Fast way of converting Currency from one to another ",
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html"
+    }
+}

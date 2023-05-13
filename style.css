@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-size: 15px;
+    text-transform: capitalize;
+     background-color: white;
+}
+div{
+    width: 250px;
+}
+h1{
+    font-size: 15px;
+    text-align: center;
+}
+
+#no1{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+select, input{
+    width: 100px;
+}
+ button{
+    width: 90%;
+    display: block;
+    margin: auto;
+    border: none;
+    padding: 10px;
+    background-color: rgb(111, 249, 111);
+}
+#result{
+    background-color: black;
+    color: white;
+    width: 80%;
+    display: block;
+    margin: auto;
+    font-size: 10px;
+    font-weight: bolder;
+    margin-top: 10px;
+    text-align: Center;
+    padding: 10px;
+}
